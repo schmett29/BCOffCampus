@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-6.5.87_5c22d4280570ab6c0d8818f696f400b6c0ac1dfa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/David/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_dc0e059b829426cf5406c9405770930dfd0cb7d7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_a1f2d8c22aaf0174634b4669cde91e7dc7434c31/classes.dex" />
+    </item>
+    <item
+        jar="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_ff558a840044236fe6cb3ea6d9b9ebf7608ec7c9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_be226b8687224057b103cf3bc37e1039a7a78185/classes.dex" />
+    </item>
+    <item
+        jar="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_9188c6814522e4c4682bbef11e2ce06adf62385d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_788c80fac5243751bed50b52b2f66c0a2fc58e94/classes.dex" />
+    </item>
+    <item
+        jar="/Users/David/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_a439a26f5fc196ca962bce20f031988fd56ce6a1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_ca2e64a043d4cb7716dcf8471a82a026878dd04a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="00e1a27cdaddb1b7fdc039ee2f290aa09f6caddd">
+        <dex dex="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9a131422523ab5c8a4310b6ef4a939e8be33e102/classes.dex" />
+    </item>
+    <item
+        jar="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1f622437ee2aba41ca46260c6625c6fa651ff93d">
+        <dex dex="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1d796bce085e637aafeca822c73294854bd9299b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/David/Dropbox/2016S/CSCI3344/BCOffCampus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_b13a3cf29494348e38442e6d1aa65b9dbd39a953/classes.dex" />
+    </item>
+
+</items>
